@@ -1,5 +1,7 @@
 import { Container } from "./style";
+// @ts-ignore
 import pipeImage from "../assets/pattern-divider-desktop.svg"
+// @ts-ignore
 import buttonimage from "../assets/icon-dice.svg"
 import { useEffect, useState } from "react";
 
